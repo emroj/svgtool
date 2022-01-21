@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const yargs = require("yargs");
-const sharp = require("sharp");
 
 const options = yargs
   .usage("Usage: -n <name>")
