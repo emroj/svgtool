@@ -1,12 +1,12 @@
 {
-  "name": "svgtool",
+  "name": "svgviewbox",
   "version": "1.0.0",
   "description": "A Node based CMD line tool to resize SVG viewbox property",
   "main": "index.js",
   "bin": {
-    "svgtool": "./index.js"
+    "svgviewbox": "./index.js"
   },
-  "author": "emrojc",
+  "author": "Emroj Hossain",
   "license": "ISC",
   "dependencies": {
     "@svgdotjs/svg.js": "^3.1.1",
